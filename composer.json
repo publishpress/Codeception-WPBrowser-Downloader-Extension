@@ -16,7 +16,7 @@
   },
   "autoload": {
     "files": [
-      "tests/Downloader.php"
+      "Downloader.php"
     ]
   },
   "minimum-stability": "stable"
